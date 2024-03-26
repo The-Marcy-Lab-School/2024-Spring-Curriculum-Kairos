@@ -51,8 +51,8 @@
 **Week 1**
 
 - **3/25/24 - Intro to Command Line Interfaces** | [Slides](https://docs.google.com/presentation/d/1M90jrb0Dm12q45mcXDzoAIfoRbccGFmg2M_5AXJLhqo/edit#slide=id.g2c30abbbf01_0_211) | [Lecture Recording]() | [Lab Review Recording]()
-- **3/26/24 - Intro to Git & Github** | [Slides]() | [Recording]()
-- **3/27/24 - Collaborative Git** | [Slides]() | [Lecture Recording]() | [Lab Review Recording]()
+- **3/26/24 - Intro to Git & Github** | [Slides](https://docs.google.com/presentation/d/1rj0qcd-Iqh_M-4BNl-g9xDgrIucPx13Fqyw_59PHzHc/edit#slide=id.g2c6072d0cb6_0_207) | [Recording]()
+- **3/27/24 - Collaborative Git** | [Slides](https://docs.google.com/presentation/d/1u-Tnonyhgn5I1kSdMHOPilqqXAtQXGQe5x3_7JWtmus/edit#slide=id.g2c68222bc6f_0_0) | [Lecture Recording]() | [Lab Review Recording]()
 - **3/28/24 - Review** | [Part 1 Recording]() | [Part 2 Recording]() | [Git Workflow Notes]()
 
 ---
