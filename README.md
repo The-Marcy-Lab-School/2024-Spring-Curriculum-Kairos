@@ -61,8 +61,14 @@
 
 **Resources**:
 
-- 
+- [Eloquent JavaScript (Online Textbook)](https://eloquentjavascript.net/)
+- [Codecademy: Intro to JavaScript Course](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
+- [She Codes JavaScript Cheatsheet](https://cheatsheets.shecodes.io/javascript)
+- [Mod 1 - All Skills List](https://github.com/The-Marcy-Lab-School/1-3-0-resource_mod-1-all-skills)
+- [Regex Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-regex)
+- [JavaScripts Basics Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-javascript-basics)
 
 **Week 1**
 
+- **4/1/24 - Intro to node** | [Slides](https://docs.google.com/presentation/d/1aCb4UquolW15msNj9VYYumKzF7INH5CZo6jE2YGDlFg/edit?usp=sharing)
 - 
