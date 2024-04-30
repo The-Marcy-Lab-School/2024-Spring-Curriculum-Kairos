@@ -257,7 +257,7 @@ p {
 ### Image Fitting
 
 * Specify *one* height or width to get the image to maintain it's natural aspect ratio. 
-* If you specify both, it will stretch the image to fit the box, which may not be what you want.
+* If you specify both, it will stretch the **image to fit the box**, which may not be what you want.
 
 ## Homework
 

@@ -1,0 +1,35 @@
+/* *{
+  box-sizing: border-box;
+} */
+/* id: used on a single specific element */
+#main-heading {
+  color: green;
+}
+/* class: used on multiple elements when you want to group the styling */
+.all-headings{
+  color: cornflowerblue;
+}
+/* Targeting all h1 tags */
+h1{
+  color: blue;
+}
+
+.img-box{
+  background-color: aquamarine;
+  width: 800px;
+  height: 500px;
+  padding: 50px;
+}
+
+img{
+  height: 300px;
+}
+
+a { color: black; }
+a:visited { color: purple } /* a link once a user has visited the page */
+a:hover { color: orange } /* a link when the mouse hovers over it */
+a:active { color: olive; } /* a link the moment it is clicked */
+/* targeting an ordered list that has the class name of "links-list" and then applying all of the styles to its children */
+ol.links-list > li {
+  color: hotpink;
+}
