@@ -1,6 +1,6 @@
-/* *{
+*{
   box-sizing: border-box;
-} */
+}
 /* id: used on a single specific element */
 #main-heading {
   color: green;
@@ -18,7 +18,7 @@ h1{
   background-color: aquamarine;
   width: 800px;
   height: 500px;
-  padding: 50px;
+  padding: 80px;
 }
 
 img{
