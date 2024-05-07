@@ -1,22 +1,23 @@
 div#square {
   background: red;
-  width: 15rem;
-  height: 15rem;
+  width: 20vw;
+  height: 10vh;
 
   /* margin---------- */
-
+  margin: 20px;
   /* border---------- */
   border: 1rem solid black;
   /* padding--------- */
-
+  padding: 30px;
   /* display--------- */
   
   /* box model------- */
-  /* box-sizing: content-box; */
+  box-sizing: content-box;
   /* box-sizing: border-box; */
 
   /* positioning */
-  /* position: absolute; */
+  position: relative;
+  display: inline-block;
   /* bottom: 0; */
 }
 
@@ -38,14 +39,20 @@ div#rectangle {
   /* box-sizing: border-box; */
 
   /* positioning */
-  position: static;
-  top: 0;
-
+  position: relative;
+  display: inline-block;
+  /* float: left; */
+  /* top: 0; */
+  bottom: 50px;
+  left: 500px
 }
 
 /* ignore until you get to positioning */
 div.divs {
+  height: 200px;
+  /* position: block; */
   /* position: relative; */
+  /* display: inline; */
 }
 
 a {

@@ -1,7 +1,6 @@
 # Skills we're teaching
 - (CORE) margin
 - (CORE) padding
-- (CORE) margin
 - (CORE) border
 - (CORE) width/height
 - (CORE) display

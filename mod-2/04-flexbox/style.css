@@ -1,0 +1,41 @@
+.flex-container{
+  background-color: green;
+  display: flex;
+  height: 500px;
+  flex-direction: column;
+  /* justify content: moves items based on main axis */
+  justify-content: space-evenly;
+  /* align-items: moves items based on cross axis */
+  align-items: center;
+}
+
+.flex-item{
+  background-color: cornflowerblue;
+}
+
+.nav-container{
+  background-color: lightcyan;
+  height: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-items{
+  background-color: lightpink;
+  width: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  /* flex-grow: 2; */
+}
+
+.item-1{
+  flex-grow: 2;
+}
+
+.item-2{
+  flex-grow: 1;
+}
+
+.item-3{
+  flex-grow: 2;
+}

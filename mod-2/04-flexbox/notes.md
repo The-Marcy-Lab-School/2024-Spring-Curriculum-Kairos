@@ -1,0 +1,1 @@
+- default behavior of flex is row
