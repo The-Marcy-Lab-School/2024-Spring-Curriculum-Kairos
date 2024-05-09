@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+
+header{
+  background-color: darkseagreen;
+  height: 25vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+#logo{
+  background-color: chartreuse;
+  width: 30%;
+  height: 80%;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+}
+
+nav{
+  width: 30%;
+}
+
+ul{
+  display: flex;
+  /* Justify content targets main axis */
+  justify-content: space-between;
+}
+/* stopping point, anything below 800px and styles below will be applied */
+@media (max-width: 800px){
+  header{
+    background-color: lightskyblue;
+  }
+}
+/* starting point, anything above 800px and styles below will be applied */
+@media (min-width: 800px){
+  header{
+    background-color: lightyellow;
+  }
+}
