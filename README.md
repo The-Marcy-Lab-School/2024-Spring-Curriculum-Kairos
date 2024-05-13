@@ -72,3 +72,8 @@
 
 - **4/1/24 - Intro to node** | [Slides](https://docs.google.com/presentation/d/1aCb4UquolW15msNj9VYYumKzF7INH5CZo6jE2YGDlFg/edit?usp=sharing)
 - 
+## Mod 2 - HTML, CSS, DOM
+
+**Week 3**
+
+- **5/13/24 - Intro to DOM** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-0-lecture-intro-to-dom) | [Recording Link](#)
