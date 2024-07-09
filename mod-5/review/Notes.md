@@ -1,0 +1,24 @@
+Review: 
+
+- Closure:
+    - What is it?
+    - How do we create one?
+    - Where in our code do we see it?
+- Encapsulation:
+    - What is it?
+    - Where do we see it?
+    - Why is it important?
+- Factory function:
+    - How do we write a factory function?
+    - What is a factory function?
+    - What does a factory function return?
+    - Why are they helpful?
+    - How can we make a property private?
+    - What replaced factory functions?
+- Classes:
+    - What is a class?
+    - Why is a class better than a factory function?
+    - How does a class take less space than a factory function?
+    - What is the constructor?
+    - How can we make a property private?
+    - Why would we want to have static properties or static methods?
