@@ -27,7 +27,27 @@ const getUsers = () => {
 
 // TODO: Write the same function, but using async/await
 const getUsersAsyncAwait = async () => {
+  try {
+    const fetchRes = await fetch('https://reqres.in/api/users');
+    const jsonData = await fetchRes.json(); 
+    console.log("data that we got back:",jsonData);
 
+    const usersList = document.querySelector("#users-list");
+    usersList.innerHTML = "";
+
+    jsonData.data.forEach((user) => {
+      const li = document.createElement('li');
+      const p = document.createElement('p');
+      const img = document.createElement('img');
+      usersList.append(li);
+      li.append(p, img);
+
+      p.textContent = `${user.first_name} ${user.last_name}`;
+      img.src = user.avatar
+    })
+  } catch(error) {
+    console.error(error.message)
+  }
 }
 
 const main = () => {
