@@ -20,11 +20,23 @@ Class Diagrams can be created using a tool like https://draw.io or they can simp
 
 ```js
 class Book {
+  static #allBooks = []
+
   constructor(title, author, genre) {
     this.title = title;
     this.author = author;
     this.genre = genre;
     this.id = getId();
+
+    Book.#allBooks.push(this);
+  }
+
+  static list() {
+    return [...Book.#allBooks];
+  }
+
+  static find(id) {
+    return Book.#allBooks.find((book) => book.id === id);
   }
 }
 ```
@@ -33,15 +45,18 @@ Now, to the right of your `Book` diagram, create a diagram for the `Library` cla
 
 ```js
 class Library {
-  #books = [];
+  #books = [];                // Private Instance Property
+  static #allLibraries = []   // Private Class Property
 
-  static #allLibraries = []
   constructor(name, address) {
     this.name = name;
     this.address = address;
+    this.id = getId();
 
     Library.#allLibraries.push(this);
   }
+
+  // Library Instance Methods
   addBook(title, author, genre) {
     const addedBook = new Book(title, author, genre);
     this.#books.push(addedBook);
@@ -54,8 +69,12 @@ class Library {
     this.#books.splice(this.#books.findIndex((book) => book.id === id), 1);
   }
 
+  // Library Class Methods
   static list() {
     return [...Library.#allLibraries];
+  }
+  static find(id) {
+    return Library.#allLibraries.find((library) => library.id === id);
   }
 }
 ```

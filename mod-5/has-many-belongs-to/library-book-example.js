@@ -19,6 +19,7 @@ class Book {
     this.genre = genre;
     this.id = getId();
   }
+  
 }
 
 class Library {
