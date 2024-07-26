@@ -2,7 +2,7 @@
 
 # Curriculum Resources
 
-**[> Skip to current unit <](#mod-0---command-line-git-github)**
+**[> Skip to current unit <](#mod-6---data-structures-and-algorithms)**
 
 ### Table of Contents
 - [Orientation](#orientation)
@@ -12,7 +12,7 @@
 - [Mod 3 - Core: Asynchronous JavaScript](#mod-3---core-asynchronous-javascript)
 - [Mod 4 - Core: Project Week](#mod-4---core-project-week)
 - [Mod 5 - Object Oriented Programming](#mod-5---object-oriented-programming)
-- [Mod 6 - Data Structures \& Algorithms](#mod-6---data-structures--algorithms)
+- [Mod 6 - Data Structures & Algorithms](#mod-6---data-structures-and-algorithms)
 - [Mod 7 - React](#mod-7---react)
 - [Mod 8 - Backend: Express, Postgres, SQL, Knex, and Auth](#mod-8---backend-express-postgres-sql-knex-and-auth)
 - [Civic Tech Hackathon](#civic-tech-hackathon)
@@ -77,3 +77,19 @@
 **Week 3**
 
 - **5/13/24 - Intro to DOM** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-0-lecture-intro-to-dom) | [Recording Link](#)
+
+
+---------------------------------------
+
+## Mod 6 - Data Structures and Algorithms
+
+[Resource Deck](https://docs.google.com/presentation/d/1SzqrXMCM5urwA2GbD_XB7jjf2_ocsdJKzB2YMq8cnM8/edit?usp=sharing)
+
+Week 0
+
+- **7/22-23/24 - Nodes and Linked Lists + Algorithms** | [Repo With Code](https://github.com/The-Marcy-Lab-School-Assignments/6-0-0-linked-list-ZohaibManzoor00/blob/main/src/linkedList.js) | [Slides](https://docs.google.com/presentation/d/1u92Dy8PoiI4HUqYY7K13bqaPQz1nmWlM-5-m7v2YF9E/edit?usp=sharing)  
+- **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School-Assignments/6-0-2-stacks-queues-ZohaibManzoor00/blob/main/src/from-scratch.js) | [Linked List Implementation](https://github.com/The-Marcy-Lab-School-Assignments/6-0-2-stacks-queues-ZohaibManzoor00/blob/main/src/playground.js)  | [Slides](https://docs.google.com/presentation/d/1Js_JHmtcJg6spP-oxxnXtYjUf0qSMlEsisxm7oDZgX0/edit?usp=sharing) 
+- **7/25/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/1U-gRcAsJTAChQLz447AtwGctR91Km2cM40cW_K9j91s/edit?usp=sharing) 
+
+Video Recordings coming soon - For now you can reference the recordings in our slack channel. 
+
