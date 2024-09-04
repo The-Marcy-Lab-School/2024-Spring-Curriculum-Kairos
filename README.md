@@ -226,17 +226,21 @@
 
 ## Mod 6 - Data Structures and Algorithms
 
-[Resource Deck](https://docs.google.com/presentation/d/1SzqrXMCM5urwA2GbD_XB7jjf2_ocsdJKzB2YMq8cnM8/edit?usp=sharing)
+[Mod 6 - Resource Deck](https://docs.google.com/presentation/d/1SzqrXMCM5urwA2GbD_XB7jjf2_ocsdJKzB2YMq8cnM8/edit?usp=sharing)
 
-Week 0
+**Week 0**
 
-- **7/22-23/24 - Nodes and Linked Lists + Algorithms** | [Repo With Code](https://github.com/The-Marcy-Lab-School-Assignments/6-0-0-linked-list-ZohaibManzoor00/blob/main/src/linkedList.js) | [Slides](https://docs.google.com/presentation/d/1u92Dy8PoiI4HUqYY7K13bqaPQz1nmWlM-5-m7v2YF9E/edit?usp=sharing)  
-- **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School-Assignments/6-0-2-stacks-queues-ZohaibManzoor00/blob/main/src/from-scratch.js) | [Linked List Implementation](https://github.com/The-Marcy-Lab-School-Assignments/6-0-2-stacks-queues-ZohaibManzoor00/blob/main/src/playground.js)  | [Slides](https://docs.google.com/presentation/d/1Js_JHmtcJg6spP-oxxnXtYjUf0qSMlEsisxm7oDZgX0/edit?usp=sharing) 
-- **7/25/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/1U-gRcAsJTAChQLz447AtwGctR91Km2cM40cW_K9j91s/edit?usp=sharing) 
+- **7/22-23/24 - Nodes and Linked Lists + Algorithms** | [Repo With Code](https://github.com/The-Marcy-Lab-School-Assignments/6-0-0-linked-list-ZohaibManzoor00/blob/main/src/linkedList.js) | [Slides](https://docs.google.com/presentation/d/1u92Dy8PoiI4HUqYY7K13bqaPQz1nmWlM-5-m7v2YF9E/edit?usp=sharing)  | [Lecture Recording](https://youtu.be/ZTv0dLqryOI)
+- **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School-Assignments/6-0-2-stacks-queues-ZohaibManzoor00/blob/main/src/from-scratch.js) | [Linked List Implementation](https://github.com/The-Marcy-Lab-School-Assignments/6-0-2-stacks-queues-ZohaibManzoor00/blob/main/src/playground.js)  | [Slides](https://docs.google.com/presentation/d/1Js_JHmtcJg6spP-oxxnXtYjUf0qSMlEsisxm7oDZgX0/edit?usp=sharing) [Lecture Recording](https://youtu.be/LVwoQ5p98FE)
+- **7/25/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/1U-gRcAsJTAChQLz447AtwGctR91Km2cM40cW_K9j91s/edit?usp=sharing) [Lecture Recording](https://youtu.be/1CVAyBLgtzQ)
 
-Video Recordings coming soon - For now you can reference the recordings in our slack channel. 
+**Week 1**
 
-------
+- **7/29/24 - Recursion Review** | [Slides](https://docs.google.com/presentation/d/1U-gRcAsJTAChQLz447AtwGctR91Km2cM40cW_K9j91s/edit?usp=sharing) | [Lecture Recording](https://youtu.be/m2e9m2L4l9I)
+- **7/30/24 - Trees** | [Slides](https://docs.google.com/presentation/d/11-mGuprRi2CQbr7pXc1ROPI8fVsh2RKjTxYkhYawtzc/edit?usp=sharing) | [Lecture Recording](https://youtu.be/kzZAxpXCGIA)
+- **7/31/24 - Tree Traversals** | [Repo With Code](https://github.com/The-Marcy-Lab-School/6-1-2-tree-traversal) | [Slides](https://docs.google.com/presentation/d/1mveK7bJpZrhZcEbEjH0QFqRkTzVF3wd19sarxT2CvXc/edit?usp=sharing) | [Lecture Recording](https://youtu.be/i_Egu8w_cNE)
+
+---------------------------------------
 
 ## Mod 7 - React
 
