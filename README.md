@@ -232,7 +232,7 @@
 
 - **7/22-23/24 - Nodes and Linked Lists + Algorithms** | [Repo With Code](https://github.com/The-Marcy-Lab-School-Assignments/6-0-0-linked-list-ZohaibManzoor00/blob/main/src/linkedList.js) | [Slides](https://docs.google.com/presentation/d/1u92Dy8PoiI4HUqYY7K13bqaPQz1nmWlM-5-m7v2YF9E/edit?usp=sharing)  | [Lecture Recording](https://youtu.be/ZTv0dLqryOI)
 - **7/24/24 - Stacks & Queues** | [Repo With Code](https://github.com/The-Marcy-Lab-School-Assignments/6-0-2-stacks-queues-ZohaibManzoor00/blob/main/src/from-scratch.js) | [Linked List Implementation](https://github.com/The-Marcy-Lab-School-Assignments/6-0-2-stacks-queues-ZohaibManzoor00/blob/main/src/playground.js)  | [Slides](https://docs.google.com/presentation/d/1Js_JHmtcJg6spP-oxxnXtYjUf0qSMlEsisxm7oDZgX0/edit?usp=sharing) [Lecture Recording](https://youtu.be/LVwoQ5p98FE)
-- **7/25/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/1U-gRcAsJTAChQLz447AtwGctR91Km2cM40cW_K9j91s/edit?usp=sharing) [Lecture Recording](https://youtu.be/1CVAyBLgtzQ)
+- **7/25/24 - Recursion** | [Slides](https://docs.google.com/presentation/d/1U-gRcAsJTAChQLz447AtwGctR91Km2cM40cW_K9j91s/edit?usp=sharing) | [Lecture Recording](https://youtu.be/1CVAyBLgtzQ)
 
 **Week 1**
 
