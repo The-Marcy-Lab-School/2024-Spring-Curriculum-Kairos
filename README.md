@@ -301,15 +301,15 @@
 **Week 1**
 
 - **9/9/24 - Data Model + MVC** | [Repo with Code](https://github.com/The-Marcy-Lab-School/8-1-0-express-rest-api-model) | [Recording](https://us02web.zoom.us/rec/share/3sXKOvtYxSlOpo3xFd2zUv9iU_QLSPtj7YmGdTqdSBCQIGz39T2AI33d4vJqE-Vl.fmCwqMw2LzngwrX3?startTime=1725892559000)
-- **9/10/24 - Frontend/Backend App Build Review** | [Recording]()
+- **9/10/24 - Frontend/Backend App Build Review** | [Recording](https://youtu.be/ofBnyRNuCtY)
 - **9/11/24 - MVC: Creating a Resource** | [Recording]()
 
 **Week 2**
 
-- **9/16/24 - Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | [Recording]()
-- **9/17/24 - Relationships Between Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations) | [Recording]()
-- **9/18/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording]()
-- **9/19/24 - SQL + Knex Review** | Same repo as above | [Recording]()
+- **9/16/24 - Intro to Databases, Postgres, and SQL** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-0-sql-and-databases) | [Recording](https://us02web.zoom.us/rec/share/O7c1M9NlGlwmPPSGo32TrztODZTv1t75VoINmhjI4PZQgGpfNssufmXOWoQ4T7Wv.cec7XfI-NYYi_8Wk)
+- **9/17/24 - Relationships Between Tables** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-1-associations) | [Recording](https://us02web.zoom.us/rec/share/1cD8vpM72AxeWiU3eqN1tLqXpRt8yL2MxWwHQldeLFG3IC45wpcFxK_FMBcORIW0.jn_vW4nrMRjM739P)
+- **9/18/24 - Knex** | [Repo](https://github.com/The-Marcy-Lab-School/8-2-2-knex) | [Recording](https://us02web.zoom.us/rec/share/-P6ep6TjabOkMrYfKUe0aIG-lUf5sXj-mTIuy7ahJr94m2bQw3H3aYup7MfvB0yk.74Te0TanwTbaC0vg)
+- **9/19/24 - SQL + Knex Review(many-to-many relationships)** | Same repo as above | [Recording](https://us02web.zoom.us/rec/share/1dC7m-79KO9ghtkIwaySG7Rwgj2ZYA-pv-_hX8oCMlLqdGHq1PBTk4fFocscOqZH.yvw-KDQgJBrbzUbc)
 
 Week 4
 
