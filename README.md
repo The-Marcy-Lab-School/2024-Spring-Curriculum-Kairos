@@ -50,7 +50,7 @@
 
 **Week 1**
 
-- **3/25/24 - Intro to Command Line Interfaces** | [Slides](https://docs.google.com/presentation/d/1M90jrb0Dm12q45mcXDzoAIfoRbccGFmg2M_5AXJLhqo/edit#slide=id.g2c30abbbf01_0_211) | [Lecture Recording]() | [Lab Review Recording]()
+- **3/25/24 - Intro to Command Line Interfaces** | [Slides](https://docs.google.com/presentation/d/1M90jrb0Dm12q45mcXDzoAIfoRbccGFmg2M_5AXJLhqo/edit#slide=id.g2c30abbbf01_0_211) | [Lecture Recording](https://us02web.zoom.us/rec/share/6optSYQPub4jhuNEZ8p145136Ms7atYaZzxL1G7qsdRH4WZ9fDXfvHz1lUjOskpf.ZMKyhMX-OLeVOwqb)
 - **3/26/24 - Intro to Git & Github** | [Slides](https://docs.google.com/presentation/d/1rj0qcd-Iqh_M-4BNl-g9xDgrIucPx13Fqyw_59PHzHc/edit#slide=id.g2c6072d0cb6_0_207) | [Recording]()
 - **3/27/24 - Collaborative Git** | [Slides](https://docs.google.com/presentation/d/1u-Tnonyhgn5I1kSdMHOPilqqXAtQXGQe5x3_7JWtmus/edit#slide=id.g2c68222bc6f_0_0) | [Lecture Recording]() | [Lab Review Recording]()
 - **3/28/24 - Review** | [Part 1 Recording]() | [Part 2 Recording]() | [Git Workflow Notes]()
@@ -70,22 +70,22 @@
 
 **Week 1**
 
-- **4/1/24 - Intro to node** | [Slides](https://docs.google.com/presentation/d/1aCb4UquolW15msNj9VYYumKzF7INH5CZo6jE2YGDlFg/edit?usp=sharing)
-- **04/02/24 - 1.1 Variables, Functions, Strings** | [Slides](https://docs.google.com/presentation/d/1l5fe4EL2DqOtXKfeKEhdxGxNI7k3nqHPQLbP3-Q706s) | [Recording Part 1](https://www.youtube.com/watch?v=iambf_jDL0Q) | [Recording Part 2](https://zoom.us/rec/play/QZTySNEsw-1y_HMmYBaJhA2_awo7a1sDJ7yhPkcRCbAcFlc96FKBUDEVRq1kUKKz4f4EHKGMzFmsgWyt.uqrlrbulie-yVH6k?autoplay=true&startTime=1712079211000)
+- **4/1/24 - Intro to node** | [Slides](https://docs.google.com/presentation/d/1aCb4UquolW15msNj9VYYumKzF7INH5CZo6jE2YGDlFg/edit?usp=sharing) | [Recording](https://us02web.zoom.us/rec/share/hBdL0a1PhBz_g5u7ft56SJVrp24S_R6_rcehmoW3onJ8toIKYB8TdDZr-sKw3n3n.7ur_4m9i6fa5RzSb) | [Lab Review](https://us02web.zoom.us/rec/share/X__eXIAnvhW77VPzDwu7eQfkQfgacdH_GdJvjOp0EtueBEKzqt1JMFWyRJECy-sc.pwIywUUfDXy8QWdX)
+- **04/02/24 - 1.1 Variables, Functions, Strings** | [Slides](https://docs.google.com/presentation/d/1l5fe4EL2DqOtXKfeKEhdxGxNI7k3nqHPQLbP3-Q706s) | [Recording Part 1](https://us02web.zoom.us/rec/share/4zE6tk0AotqTyWg0pyGoyDb_hZK7dGZaXiUSjqfhth78zceFzBPu7PKSGegAcFCa.rfLKwO5tOjq4jGw_)
 - **04/03/24 - 1.2 Strings & Control Flow** | [Slides](https://docs.google.com/presentation/d/1A3FPpnVWFG42ChRusrrbWXVFnrC8hlm85IzgMHmadH8) | [Recording](https://youtu.be/GiohqszbXAI)
 - **04/04/24 - Problem Solving** | [Slides](https://docs.google.com/presentation/d/18WwjvW4fUJqWMBRSztn5TRV-qcrCmVr-I85CT0e3uv8/) | [Recording](https://us02web.zoom.us/rec/share/bGxNcGtltBqBh3ZFTIHvShJV9pkkFKhWlhqkynXx7AWK-hHaN0WFXWgSSCOGlFA7.xgaNrKkkNympcuhC?startTime=1712239688000)
 
 
 **Week 2**
 
-- **04/08/24 - 1.3 Loops** | [Slides](https://docs.google.com/presentation/d/1AfrsNZRXMqoXx1pPtPzuJfImzyVz4-_6zRY-seuQVkc/) | [Key Terms](./resources/1-3-loops.md) | [Code](https://replit.com/@madhur-xyz/LoopsLecture) | [Recording](https://us02web.zoom.us/rec/share/miDEk5HFXAwStj3Fv0w1w5mzt4_P0fGHfwXer413l68wI7fxH8TVnTsENA_F8yy7.kq8peKVcb6eBf4GB?startTime=1712587799000) 
+- **04/08/24 - 1.3 Loops** | [Slides](https://docs.google.com/presentation/d/1AfrsNZRXMqoXx1pPtPzuJfImzyVz4-_6zRY-seuQVkc/) | [Key Terms](./resources/1-3-loops.md) | [Code](https://replit.com/@madhur-xyz/LoopsLecture) | [Recording](https://us02web.zoom.us/rec/share/aQLNPTY-aE3Jnq8nWx6DA6RH3IpWurnYzjcrDtMqtBwNmthicu9P0_SqFsmKtySJ.gGh5Kz540fN6WCto)
 - **04/09/24 - 1.4 Arrays** | [Slides](https://docs.google.com/presentation/d/1H5j6USVYQAAgSUFPoFZlNU2xN6UF-UglwdMap8TcNuw/) | [Key Terms](./resources/1-4-arrays.md) | [Code](https://replit.com/@madhur-xyz/ArraysLecture) |  [Recording Part 1](https://us02web.zoom.us/rec/share/nkTgp5nm0WmIjv7rBjORqe47vSIRgj0ZpX5Di8jGKp9Cz8UUzU3UxA_M9Te02pXb.Nig8JwdfCby0AMxq?startTime=1712671292000) | [Recording Part 2](https://us02web.zoom.us/rec/share/iOObNMYsGYI62b07VKI7ciR11Mq_dD8J7483IhpGlpwMWnMufiXMzJxR1kpRfj5h.-_DjYvBAh-SUZxWk?startTime=1712683247000)
 - **04/10/24 - Review** | [Code](https://replit.com/@juliancastro16/Map-Filter-and-Sort-Methods#README.md) | [Recording](https://us02web.zoom.us/rec/share/GN7sLsa87V1panp1tieZuttqG1zQJ-7Qp6_AQc6wQaoNTqp3-q9bbePdIKEU2Rt-.0lUs5_2_5KsGtQVj?startTime=1712762258000)
-- **04/11/24 - 1.5 Objects** | [Slides](https://docs.google.com/presentation/d/1xMVk45ROtn3QJwo2s-qtwunDplVhbB35SZ73kkidR1Y/) | [Key Terms](./resources/1-5-objects.md) | [Code](https://replit.com/@madhur-xyz/ObjectsLecture#index.js) | [Recording Part 1](https://us02web.zoom.us/rec/share/1JuM8gFk0quuRSBNjUGts-kPYbVia5wRJXrW6e4uh9NV1CuN0rWIFCmaZqfvxJKi.qPJ2jSuDT4xQJZ_8?startTime=1712844223000) | [Recording Part 2](https://us02web.zoom.us/rec/share/RS-lAvNeAkZ4pZsL62JaQrn_HzG4cCXP52pe7-S36eVr6PVqA_2-y4gsmWR0_lOu.EiEiDD3OdHWT-UV2?startTime=1712849256000)
+- **04/11/24 - 1.5 Objects** | [Slides](https://docs.google.com/presentation/d/1xMVk45ROtn3QJwo2s-qtwunDplVhbB35SZ73kkidR1Y/) | [Key Terms](./resources/1-5-objects.md) | [Code](https://replit.com/@madhur-xyz/ObjectsLecture#index.js) | [Recording](https://us02web.zoom.us/rec/share/muHB338iI3UThYlCpVR-lxqOJvHsnjHg4cfypNhliwrVhws4gUBTbPXkyvyjVrHX.cQpnmZoPqfs-n2zh)
 
 **Week 3**
 
-- **04/15/24 - 1.6 Callbacks** | [Slides](https://docs.google.com/presentation/d/1xBOI37rbDhGdoCtBW8VEG8f34RfNkM_i1vftdAK6dDw/) | [Key Terms](./resources/1-6-callbacks.md) | [Code](https://replit.com/@madhur-xyz/CallbacksLecture) | [Recording](https://youtu.be/KMw7QqbOe3A)
+- **04/15/24 - 1.6 Callbacks** | [Slides](https://docs.google.com/presentation/d/1xBOI37rbDhGdoCtBW8VEG8f34RfNkM_i1vftdAK6dDw/) | [Key Terms](./resources/1-6-callbacks.md) | [Code](https://replit.com/@madhur-xyz/CallbacksLecture) | [Recording](https://us02web.zoom.us/rec/share/ZPTOuTzBOx5iD3VfRuPJJ0yie6O49nHn_rPI4Mqyx34vpbkn3-yO8q7UBC_ekYBQ.iUfHOwWhg18yBx5P)
 - **04/16/24 - 1.7 Array Higher Order Functions** | [Slides](https://docs.google.com/presentation/d/1xXdTbrNXYHAtRgEaLt91VLdGwDxq8PrVDQh70saLuD4/) | [Key Terms](./resources/1-7-array-hofs.md) | [Code](https://replit.com/@madhur-xyz/ArrayHOFsLecture#index.js) | [Recording Part 1](https://us02web.zoom.us/rec/share/W6SBLEs2YAFC8lURdzAtxdX1lAqAazAm81YUDWtRvrWx8U8NuJeyB0xRsMLABaaK.B6_Pf5tyVy1C6aA7?startTime=1713276423000) | [Recording Part 2](https://us02web.zoom.us/rec/share/lE0sjFzaGD0lrqx4oA0KiZXElVL_onDqnAGIcCX7ZaoTdfZWn1mcbbcrpjP0MySW.iFkLERQxPWdy5quc?startTime=1713367474000)
 - **04/17/24 - 1.8 Regex** | [Slides](https://docs.google.com/presentation/d/1GMj8kGOupNuDY7OjZ4tswBmZwU6tixw83k5iA702s00/) | [Cheat Sheet](./resources/1-8-regex.md) | [Code](https://replit.com/@madhur-xyz/RegexLecture#index.js) | [Recording](https://us02web.zoom.us/rec/share/638Z0R3dI1EJFBk60TeyU5wg7SoR87vixoNx_6Cf_CkzOaI2sTJMVuo3_QWV1dSr.7uEb9QFyO9-IxaTk?startTime=1713452929000)
 - **04/18/24 - Writing Code** | [Slides](https://docs.google.com/presentation/d/1VYIXNFwJ7GckcO-VPrCPhvHdgmLyfMN5CdOKbahwCaQ/) | [Recording](https://www.youtube.com/watch?v=p-S3kpxcRsc)
@@ -114,8 +114,8 @@
 - [DOM Cheatsheet](https://github.com/The-Marcy-Lab-School/cheatsheet-DOM)
 
 **Week 1**
-- **04/29/24 - Intro to HTML** | [Key Terms](./resources/2-0-intro-to-html.md) | [Recording Part 1](https://us02web.zoom.us/rec/share/Jd_SDZ6NIJFbBD86DGGCV-0GYKeb_sIbmaqFsC2F3Fyagk3PPjtr-0eatC4dDrt5.s2nhBq6lPMl6DYm7?startTime=1714402424000) | [Recording Part 2](https://us02web.zoom.us/recording/detail?meeting_id=tjUbM%2Fj7RQ2BexNNjwpQuQ%3D%3D)
-- **04/30/24 - Intro to CSS** | [Key Terms](./resources/2-1-intro-to-css.md) | [Recording](https://www.youtube.com/watch?v=KQdYKILn3d0)
+- **04/29/24 - Intro to HTML** | [Key Terms](./resources/2-0-intro-to-html.md) | [Recording](https://us02web.zoom.us/rec/share/zgVAgVWXHT321IPL8DioiiK2j_eQaKqwsKtyJAn1mvzCxAiwdGsJXm07Ph6XxcVR.jUhAHHHKCjr6JYFg)
+- **04/30/24 - Intro to CSS** | [Key Terms](./resources/2-1-intro-to-css.md) | [Recording](https://youtu.be/Vei5VjUMh7s)
 - **05/01/24 - CSS Positioning** | [Key Terms](./resources/2-2-css-positioning.md)
 - **05/02/24 - HTML & CSS Practice** | [Base Code](https://github.com/The-Marcy-Lab-School/2-2-css-practice-nirvana) | [Updated Code](https://github.com/madhurxyz/2-2-css-practice-nirvana) | [Recording](https://us02web.zoom.us/rec/share/f7wD1zraTnIMoAQXJ49PVnf00JoPBOrVYbHbrXUayJ6BJSOCxnQ28CsKd8F21tWm.fRP6vm6oL2bMPCa4?startTime=1714677341000)
 
@@ -124,17 +124,18 @@
 - **5/7/24 - Flexbox** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-0-lecture-flexbox) | [Recording](https://youtu.be/B3bLSMe0-FI)
 - **5/8/24 - Grid + Media Queries** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-1-lecture-grid-media-queries) | [Recording](https://youtu.be/rQgw-PUa12o)
 - **5/8/24 - Lab Review: Putting It All Together** | [Repo](https://github.com/The-Marcy-Lab-School/2-1-2-lab-review-putting-it-all-together)
-- **5/9/24 - HTML & CSS Review** | [Recording](https://youtu.be/bAo-QDkiLao)
+- **5/9/24 - HTML & CSS Review** | [Recording](https://youtu.be/bspNc818GTk)
 
 **Week 3**
 
-- **5/13/24 - Intro to DOM** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-0-lecture-intro-to-dom) | [Recording](https://youtu.be/Ap6L56RetSY)
-- **5/14/24 - Events** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-1-lecture-dom-events) | [Recording](https://youtu.be/wMtTOiTwehA)
+- **5/13/24 - Intro to DOM** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-0-lecture-intro-to-dom) | [Recording](https://us02web.zoom.us/rec/share/gUVhheXWSlgIDvc8GYv193gIfrljRU0HeuSwQW8V8SNKYpvoDhXaXPKpZHXtyRDH.4nM7Zckx-fmIi7pY)
+- **5/14/24 - Events** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-1-lecture-dom-events) | [Recording](https://youtu.be/tHIFIG9_TSw)
 - **5/15/24 - Forms** | [Repo](https://github.com/The-Marcy-Lab-School/2-2-2-lecture-forms) | [Recording](https://youtu.be/OWHv7zDHG2M)
+- **5/16/24 - Mod 2 Review** | [Recording](https://youtu.be/X3KjMkOgsoM) 
 
 **Week 4 (Project Week!)**
 
-- **5/20/24 - ESModules + Vite** | [ESModules Repo](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-f23), [Vite Repo](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js) | [Recording](https://youtu.be/BnJftny4lZA)
+- **5/20/24 - ESModules + Vite** | [ESModules Repo](https://github.com/The-Marcy-Lab-School/2-3-0-esmodules-f23), [Vite Repo](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js) | [Recording](https://us02web.zoom.us/rec/share/IZcSGbUnG5XqGsViuVcOUtWkUAibrwi4oG-a8TlfVVqzs47psRBdNfNDPl1Tai49.Pv6NSEx-je1r9Jku) | [Lab Review](https://us02web.zoom.us/rec/share/ZrTG1bVeQEgb_Mao2HTgN8YaXm2SMrHtqaiCv3UGbq-4U_BcRiBtuXw_ybU8zglF.E68kydCpvkqzeGwY)
 - **5/21/24 - DOM Review (Dynamic Dog Cards)** | [Repo](https://github.com/benspector-mls/dogs-dom-project-s24) | [Recording](https://youtu.be/y82_RoAiP4U)
 - **5/22/24 - Forms Review (Dynamic Dog Cards)** | [Repo](https://github.com/benspector-mls/dogs-dom-project-s24) | [Recording](https://youtu.be/J_FE-xRwzy0)
 - **5/23/24 - Local Storage** | [Recording](https://www.youtube.com/watch?v=EA_BUUOXFDE&ab_channel=TheMarcyLabSchool)
@@ -155,17 +156,17 @@
 
 **Week 0**
 
-- **6/10/24 - Intro to Promises** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-0-intro-to-promises-S24) | [Recording](https://us02web.zoom.us/rec/share/jDWCBuO_czipwzaxyVfsS4q2hjA3x4Z1d_krKJhtHJ7n2wlmKxxZNDH_AhKxVazi.JULtdszn_5UwbyAA)
+- **6/10/24 - Intro to Promises** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-0-intro-to-promises-S24) | [Recording](https://us02web.zoom.us/rec/share/xcWtb1T5zFl60i3B0C2R9h1SqQJZ7pMzsWFtFk2_a6EG8MmCdzgnKNr7yWFiLzJD.d9C9oZUk_ZKQ7Zpo)
 - **6/10/24 - Lab Review: Promises** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-0-intro-to-promises-S24/tree/main/lab-review) |
-- **6/11/24 - Intro to Fetch** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-1-intro-fetch-S24) | [Recording](https://us02web.zoom.us/rec/share/wtJNaGAqlCX64lVFhE9FBHYFuDtaEreQ3NBCxX3E-fbjUQCgpe0VwVRa_p1RfXtI.lqbvOq5wSxHLOblO)
-- **6/12/24 - Building a Pokemeon API Search Form** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-2-pokedex-search-api-S24) | [Recording](https://us02web.zoom.us/rec/share/V3K-4nO52zhx0Rz3bkAHUXRnpafnqQymGqowOrbIBo64UT8qyQm41Dpswdv_azvM.j2o9_yy6xk-CRbOU)
+- **6/11/24 - Intro to Fetch** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-1-intro-fetch-S24) | [Recording](https://youtu.be/SNh_sglw2Ts)
+- **6/12/24 - Building a Pokemeon API Search Form** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-2-pokedex-search-api-S24) | [Recording](https://youtu.be/jHCcis__gv8)
 - **6/12/24 - Lab Review** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-2-pokedex-search-api-S24) | [Recording](https://us02web.zoom.us/rec/share/xkE_oIMGFa8YvTjVVP4aRatBuIZYJJdUchy3QW8FJVHcs-X006NE65DAR2PnF5AA.EqMLZyOdjOxCF06q)
-- **6/13/24 - Async/Await** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-3-async-await-s24) | [Recording](https://us02web.zoom.us/rec/play/vryjHsNTplF-OXyIBh0kTARysfLBX47zdUnwPjRiT6lqeIoJusGsH9nGust98hjueX7SCskp95hVNA8.rbnVn2h-bhhJQ_Qi?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FPGmVq9DlFidCdsPAoU1jJ_4zBh6FIrNQUXNnpZTK-NjYOtORJOiHH5dr2ZiGMRGL.EoKpoCe0H-suep95)
+- **6/13/24 - Async/Await** | [Repo with Code](https://github.com/Gonzalomarcylabschool/3-0-3-async-await-s24) | [Recording](https://youtu.be/WCC05FgJUzw)
 
 **Week 1**
 
-- **TBA - DOM Review** | [Recording](https://us02web.zoom.us/rec/share/maAiIWpxTkxyb34l6ng6ph2t1GMfFj8oz5d_LbYzOWMxAQ4hw2I2_gX491MgXnmZ.IB6thQYy7q2qXnv7) [lab Review Recording](https://us02web.zoom.us/rec/share/BFNS8dkKIAQo8sUArT7Y2tGUpZRJP1GGa-j0pCS5yyojZDelsFoVTrsGHEIrobFW.zpiJbj9vHM6wOX6C)
-- **TBA - Async Review** | [Recording](https://us02web.zoom.us/rec/share/LxuxEtbW5Xtrmwt92J56qlINNBV5gghnYowFF0f0Yf3C6bZhv8gSvR_DNLZg0U1M.tHS_TT3pHlKCFJAf)
+- **6/17 - DOM Review** | [Recording](https://us02web.zoom.us/rec/share/1i2IQ467zX3JJ-k9eRwUMPKw6XJAQaSNpvM40kWeA6Mt3mC0YNzbdpyDJe2SPHs.tX1EpqSZocl_vPVH) 
+- **6/18 - Async Review** | [Recording](https://us02web.zoom.us/rec/share/LxuxEtbW5Xtrmwt92J56qlINNBV5gghnYowFF0f0Yf3C6bZhv8gSvR_DNLZg0U1M.tHS_TT3pHlKCFJAf)
 - **TBA - DOM + Async Assessment**
 
 -------
@@ -204,20 +205,20 @@
 
 **Week 0**
 
-- **7/1/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-0-0-encapsulation-factories-closure-s24) | [Recording](https://us02web.zoom.us/rec/share/bMSL1U--7ff_q3KkF7sdYac2bDL42IzwKSbHKNscj2l7fyMEzjAmx1dSJp429b4i.o3AYovnQQuU7wneZ)
+- **7/1/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-0-0-encapsulation-factories-closure-s24) | [Recording](https://us02web.zoom.us/rec/share/nVeErIb1P8zWkJherFN2h639A_fce-yG8eNXrP54pm_HHyvQyRuv4suaEMFR2M_k.Y8vbP82jwTGbVQd4) | [Lab Review](https://us02web.zoom.us/rec/share/4IOqw7j0N_NGhvzMFxSW5qmNt00M43Er_IlV_dzcatF3fo-BdGCRKNZCUfvI9GTM.9O0GjBJvpmtaUs52)
 - **7/2/24 - Class Basics** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-1-classes-f23) | [Recording](https://us02web.zoom.us/rec/share/XXksi2YQ7YVBnI09VsiWSILHaVaXHvY4oqhurRvg8sC2202fwUMs4NHh3Cqkc-IT.oPjFOWk5aBQ58PwS)
 - **7/3/24 - Private Properties, Static Methods** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-0-2-private-properties-static-methods-s24) | [Recording](https://youtu.be/2CjQjFLbZBk)
 
 **Week 1**
 
-- **7/8/24 - Review** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-0-oop-review) | [Recording](https://us02web.zoom.us/rec/share/PaDWbaWaFZqgCfQtBGlPMA4IYYW9G3_V8KTkYXfGGdLN__FB_H6rnWYVdoTRc7A2.1OlAByApCTedRAtG?startTime=1720450201000)
-- **7/9/24 - Has Many/Belongs To** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-1-has-many-belongs-to-s24) | [Recording](https://youtu.be/994yn_IKogQ)
+- **7/8/24 - Review** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-0-oop-review) | [Recording](https://us02web.zoom.us/rec/share/9ODR1YSdeinHcJNUjyU6lzIwy7zL5lqSeppgBjDoxNRFldt29i7llmm8--WhM1lq.MKwXudidstWbA9Jd)
+- **7/9/24 - Has Many/Belongs To** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-1-has-many-belongs-to-s24) | [Recording](https://youtu.be/12EC1V3sH_U)
 - **7/10/24 - Implementing Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-1-has-many-belongs-to-front-end)
-- **7/11/24 - Inheritance & Polymorphism** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-3-inheritance-and-polymorphism) | [Recording](https://youtu.be/b9d4QTS3dDw)
+- **7/11/24 - Inheritance & Polymorphism** | [Repo with Code](https://github.com/Gonzalomarcylabschool/5-1-3-inheritance-and-polymorphism) | [Recording](https://youtu.be/yZTvWfO2X7w)
 
 **Week 2**
 
-- **7/15/24 - Review** | [Review 1 Recording](https://us02web.zoom.us/rec/share/9KXZsclfsuiqKYg2nS24bf0dsKZV41bXnBeYMlRep3HbOklZQ-XjE3nM7zahTNRk.fcdiOAt_gG_9gBE7Y) | [Code](https://github.com/The-Marcy-Lab-School/mod-5-study-guide)
+- **7/15/24 - Review** | [Recording](https://us02web.zoom.us/rec/share/zjpScADhDY-gOBos1M756hqfEd6cPncr7e9IEZKNF5PAapyEZBPkLseWTFIu-fNr.G7G0aJa4ar8LpAq9) | [Code](https://github.com/The-Marcy-Lab-School/mod-5-study-guide)
 - **7/16/24 - Deep Work day** |
 - **7/17/24 - Short answer Assessment** [Canvas Assignment](https://canvas.instructure.com/courses/8631897/assignments/47994819?module_item_id=112652346)
 - **7/18/24 - Coding Assessment** [Canvas Assignment](https://canvas.instructure.com/courses/8631897/assignments/47994819?module_item_id=112652346)
@@ -265,8 +266,8 @@
 
 **Week 2**
 
-- **8/19/24 - React Router** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-2-react-router) | [Recording](https://youtu.be/SAu-z-hchQU)
-- **8/19/24 - Putting It All Together Review React Router Assignment** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-2-assignment) | [Recording](https://us02web.zoom.us/rec/share/Msqp5e5S49F1Lx1ecW1BXDk5zBwJXTgI4Dx9zsZHtvA18jrJ7ePXadCFfoQhgAx7.624a7q4DDevMjFkf)
+- **8/19/24 - React Router** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-2-react-router) | [Recording](https://us02web.zoom.us/rec/share/3FKHkGZMxa6vlOnZbnGIGB-N8eA4i9XAM6q49kEexJw3bmTJo81pMrMNWkIscBeA.07dvCxljThV5qE77)
+- **8/19/24 - Putting It All Together Review React Router Assignment** | [Repo with Code](https://github.com/The-Marcy-Lab-School/7-1-2-assignment) | [Recording](https://us02web.zoom.us/rec/share/QMtDyO_dHJtWMIDOWuxYGxsS7oV6VCwLzmxPUbQhTTjFn25dOqHT3Y96lYKyfc6Q.awWD8E4sdly8zkEo)
 - **8/19/24 Project week Roll out** | - [Project Overview](https://github.com/The-Marcy-Lab-School/react-api-project) | [Roll out slide deck](https://docs.google.com/presentation/d/1a9xy5mV8pfFHdr-4tFB7cfLfbI6HM03Cne_BJWEAZBo/edit#slide=id.g2a0fa3f81c5_0_5)
 
 **Project Week**
@@ -320,11 +321,11 @@ Week 3
 
 Week 5
 
-- **9/30/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://us02web.zoom.us/rec/share/Vf6GgjZ2MhebAWeAZneJK54yq7P_uXxk1x7VBIM90jI-jQxZBRYX0wc4DqU3rQi-.nRhM-yyaHlQiMt1r)
-- **10/1/24 - Lab Review: React Express Auth Backend Routing** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://us02web.zoom.us/rec/share/3Sc4m8REJ3H0C7aIwXYxD9LC8SMOjQtyHizXHKOFsVWaSObCrG4Nxe5Z_foWrt3v.BAmZjhOGp6gzmqHt)
+- **9/30/24 - Hashing & Salting with Bcrypt** | [Repo](https://github.com/The-Marcy-Lab-School/8-4-0-hashing-salting-bcrypt) | [Recording](https://us02web.zoom.us/rec/share/geSOiryTVdHRxepCLANG8nc-et3kW1zx663gRQ6ORdaJCzA06xatUrYPuzruecJc.NKaKU41154XoUvWe)
+- **10/1/24 - Lab Review: React Express Auth Backend Routing** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://us02web.zoom.us/rec/share/R7RzlkUzEh-yxW19wT9NZ48JEMWMc5u4nvbqKYy08HEPebcY9R5Ib8Rgb0iAJZfB.WaGI11Wurbj3nVHa)
 
-- **10/2/24 - Practice Building with the Auth Template**[Recording](https://us02web.zoom.us/rec/share/xr3Vdw9c-HUu8OsOy51L48iOgo8ojN9sj5dAMgKKKpGeG1EY8Vmxk8P5qsOYpYcz.wI-Robe52dObJQC9)
+- **10/2/24 - Practice Building with the Auth Template**[Recording](https://us02web.zoom.us/rec/share/0M43DNMmnL_Ow0cTCMJTjN3f16IB9nQnS-7DI1jlu2sW2Bb5nDJj4X3CyGoBeKO9.mS2EpwCoyKNu36Tx)
 
-- **10/3/24 - User Login** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://youtu.be/f9zwwaYgYW8)
+- **10/3/24 - User Login** | [Repo](https://github.com/The-Marcy-Lab-School/react-express-auth) | [Recording](https://us02web.zoom.us/rec/share/sSK6m0CYcufzzOZf3VtS9L1fthFV99pxSA1Weel21g6360_n6TqUnX8MUAhA1Ooh.ZD6PSl7NPq-o6FTD)
 
 ---
